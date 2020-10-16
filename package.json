@@ -11,5 +11,5 @@
     "dev": "npm run check; sh ./scripts/dev.sh",
     "build": "npm run check; sh ./scripts/build.sh",
     "minify": "npm run check; sh ./scripts/minify.sh"
-  },
+  }
 }
