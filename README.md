@@ -11,4 +11,4 @@ Compiling ```src/*.mjml templates into build/*.html``` one time.
 ### `yarn minify`
 Compiling ```src/*.mjml templates into build/*.html``` with minify for production.
 
-### About MJML: mjml.io
+### About MJML: https://mjml.io/
