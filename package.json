@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "mjml": "^4.7.1",
-    "open": "7.3.0"
+    "open": "8.0.6"
   },
   "scripts": {
     "gen:index": "sh ./scripts/gen-index.sh",
