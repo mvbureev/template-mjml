@@ -2,7 +2,7 @@
   "name": "template-mjml",
   "version": "0.1.0",
   "dependencies": {
-    "mjml": "^4.7.1",
+    "mjml": "^4.10.1",
     "open": "7.3.0"
   },
   "scripts": {
